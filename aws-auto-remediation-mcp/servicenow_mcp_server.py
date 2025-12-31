@@ -52,10 +52,10 @@ def resolve_incident(sys_id):
 
     # STEP 2: Resolve with mandatory fields
     payload = {
-        "state": "6",
-        "incident_state": "6",
-        "close_code": "solved permanently",
-        "close_notes": "Auto-remediation completed. EC2 instance restarted successfully."
+        "state": "6", # Resolved
+        "incident_state": "6", # resolved
+        "close_code": "Solution provided",
+        "close_notes": "Issue resolved successfully."
     }
 
     r2 = requests.patch(

@@ -7,3 +7,4 @@ python -m venv .venv
 pip install -r requirements.txt
 
 python orchestrator_mcp_server.py
+
