@@ -1,0 +1,8 @@
+AWS_REGION = "us-east-1"
+CPU_THRESHOLD = 0.14
+MEM_THRESHOLD = 0.14
+
+SN_INSTANCE = "dev181732"
+SN_USER = "admin"
+SN_PASSWORD = "kdji*@W3R8HC"
+SN_API_KEY = "basic"
