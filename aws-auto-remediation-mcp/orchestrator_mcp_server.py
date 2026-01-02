@@ -40,7 +40,7 @@ from config import CPU_THRESHOLD, MEM_THRESHOLD
 #INSTANCE_ID = "i-07d743b1d544c8215"
 
 INSTANCE_IDS = [
-    "i-07d743b1d544c8215"
+    "i-0e7d08890e5c24c61"
 ]
 
 def main():

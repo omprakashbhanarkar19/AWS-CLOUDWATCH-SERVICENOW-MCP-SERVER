@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Omprakash\MCP_practice\Task-3\AWS-CLOUDWATCH-SERVICENOW-MCP-SERVER\aws-auto-remediation-mcp\.venv"
+set "VIRTUAL_ENV=C:\Omprakash\MCP_practice\Task-2-aws-cloudwatch-servicenow-mcp-server-Done\AWS-CLOUDWATCH-SERVICENOW-MCP-SERVER\aws-auto-remediation-mcp\.venv"
 
 if not defined PROMPT set PROMPT=$P$G
 
